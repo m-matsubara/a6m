@@ -24,3 +24,8 @@ A5M.scr を Windows のインストールされている System32 フォルダ�
 
 # 著作権について
 Copyright © 1996 松原正和
+
+
+# サイト
+[零式艦上戦闘機 スクリーンセーバー](https://www.mmatsubara.com/developer/a6m/)
+[github](https://github.com/m-matsubara/a6m)
